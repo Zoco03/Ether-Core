@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Ether Core"
+message: "If you use Ether Core in your project, please cite it as follows."
+type: software
+
+authors:
+  - family-names: "Dox Interactive"
+    given-names: ""
+
+version: "1.0.0"
+date-released: "2026-08-16"
+
+repository-code: "https://github.com/Zoco03/Ether-Core"
+
+abstract: >
+  Ether Core is a multilingual, multi-agent AI workspace with
+  text and voice interaction, designed to bring specialized AI
+  agents together in a unified environment.
+
+license: "MIT"
