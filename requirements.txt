@@ -1,0 +1,22 @@
+# ==========================================
+# ETHER CORE by DOX INTERACTIVE
+# Core Dependencies & Environment 
+# ==========================================
+
+# 1. Multi-Agent Framework & API Routing
+crewai
+python-dotenv
+
+# 2. Bilingual Voice & Audio Engine
+SpeechRecognition
+gTTS
+pygame
+PyAudio
+
+# 3. Document Processing & UI 
+streamlit
+pdfplumber
+
+# 4. Conflict Resolution Constraints
+click>=8.4.2
+Pillow<12.0.0
