@@ -13,7 +13,7 @@ Ether Core orchestrates a specialized crew of autonomous AI agents powered by un
   * **Code Mode:** Full orchestration loop involving frontend, backend, and database engineers to design and implement complete software modules.
   * **Research Mode:** Deep context gathering and structured technical documentation generation.
 * **Bilingual Voice Engine:** Integrated support for English and Hindi voice input and natural text-to-speech output.
-* **Zero Model Duplication:** Six dedicated, unique LLM instances mapped to specific functional strengths across the orchestration loop.
+* **Dedicated Specialists:** Highly capable OpenRouter free-tier models assigned to distinct architectural roles.
 * **Concurrent Execution:** Unified single-command startup linking the Python server backend with the React interface.
 
 ---
@@ -24,10 +24,10 @@ Ether Core orchestrates a specialized crew of autonomous AI agents powered by un
 | :--- | :--- | :--- |
 | **Executive Boss / Router** | `nvidia/nemotron-3-ultra-550b-a55b:free` | Task triage, intent routing, and crew orchestration |
 | **Frontend UI/UX Specialist** | `cohere/north-mini-code:free` | Layouts, component architecture, and styling |
-| **Backend API Architect** | `meta-llama/llama-3-8b-instruct:free` | Endpoints, routing, middleware, and logic |
-| **Database & Systems Engineer** | `qwen/qwen-2-7b-instruct:free` | Schema design, state handling, and data models |
-| **Technical Researcher** | `nvidia/nemotron-3-super-120b-a12b:free` | Intel gathering, dependency audits, and documentation checks |
-| **Documentation Specialist** | `microsoft/phi-3-mini-128k-instruct:free` | Markdown synthesis, setup guides, and technical breakdowns |
+| **Backend API Architect** | `nvidia/nemotron-3-super-120b-a12b:free` | Endpoints, routing, middleware, and server logic |
+| **Database & Systems Engineer** | `nvidia/nemotron-3-super-120b-a12b:free` | Schema design, hardware states, and data models |
+| **Technical Researcher** | `google/gemma-4-31b-it:free` | Intel gathering, dependency audits, and documentation checks |
+| **Documentation Specialist** | `openai/gpt-oss-20b:free` | Markdown synthesis, setup guides, and technical breakdowns |
 
 ---
 
